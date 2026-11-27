@@ -1,4 +1,4 @@
-# Tugas 1 - PBO PHP
+# Tugas Pertemuan 6 - PBO PHP
 
 * **NIM** : 251160293
 * **Nama** : Windy Januar Hidayat
